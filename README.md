@@ -1,6 +1,6 @@
-# KaseiCoin
+## KaseiCoin
 
-## KaseiCoin.sol
+### KaseiCoin.sol
 
 <img width="1680" alt="Screen Shot 2022-05-01 at 10 42 25 PM" src="https://user-images.githubusercontent.com/94722790/166178357-dfcddad0-a191-443f-8e20-4a098dc31e54.png">
 
